@@ -1,0 +1,36 @@
+body{
+    padding: 100px;
+}
+.login{
+    margin: 0 auto;
+    padding: 40px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+#transection-area{
+    display: none;
+}
+.deposite{
+    background-color: slateblue;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.withdraw{
+    background-color: lightsalmon;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.balance{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.footer{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 12px;
+}
